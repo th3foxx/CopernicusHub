@@ -40,6 +40,9 @@
     "last 1 firefox version",
     "last 1 safari version"
   ],
+  "engines": {
+    "node": ">=16 <18"
+  },
   "devDependencies": {
     "@craco/craco": "^6.4.3",
     "@sentre/craco-plugins": "^1.0.27",
