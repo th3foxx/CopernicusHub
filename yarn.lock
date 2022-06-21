@@ -1873,10 +1873,10 @@
     soprox-abi "^0.0.18"
     tweetnacl "^1.0.3"
 
-"@sentre/antd-ionicon@^1.0.27":
-  version "1.0.27"
-  resolved "https://registry.yarnpkg.com/@sentre/antd-ionicon/-/antd-ionicon-1.0.27.tgz#324d21d96ee36e19d7a7e10cb46891754535b8fa"
-  integrity sha512-bDlG0qj+uUNavq+Y2BO7e3g/wWf4Rl19Vvjqa81Py6Aa9vCye+JM05pVzWiqKpDmiRqayIV0WkKRfntAW7BRGg==
+"@sentre/antd-ionicon@^1.0.28":
+  version "1.0.28"
+  resolved "https://registry.yarnpkg.com/@sentre/antd-ionicon/-/antd-ionicon-1.0.28.tgz#78a1b5a578dfd376f4850a4256fa9fa850525dad"
+  integrity sha512-tXQNeCEoONgwSBM2BRV/7x3NpJGGS+N7TcKZ/8RK3hsPpPYNy2g6RBuNjfgmcDrxPXxmhmr4aYuIPFj8vCEmUw==
   dependencies:
     react-helmet "^6.1.0"
 
@@ -1887,10 +1887,10 @@
   dependencies:
     "@solana/web3.js" "^1.43.1"
 
-"@sentre/craco-plugins@^1.0.27":
-  version "1.0.27"
-  resolved "https://registry.yarnpkg.com/@sentre/craco-plugins/-/craco-plugins-1.0.27.tgz#42effa2b02270a08abf622f4e9c35b3514b5a719"
-  integrity sha512-f34N02VJSQRW0t4IKZ6CgH1FUxba5oTCbnrNvT/ptWUSmek4BXgPFTjaeAWeF3uj5iJLqPdc6seGbn51eg0REg==
+"@sentre/craco-plugins@^1.0.28":
+  version "1.0.28"
+  resolved "https://registry.yarnpkg.com/@sentre/craco-plugins/-/craco-plugins-1.0.28.tgz#8b47dc54699cd285400e85fe0b038fae940e44db"
+  integrity sha512-53fogaJ1WggZrRcUIiPoxr+QmNqKw3FFDNk8kKT/fHNovjGpOmuWEPuD4rrEdp2dI98liY6rYzHUp7A4cpYQKw==
   dependencies:
     "@babel/cli" "^7.17.10"
     "@babel/core" "^7.18.2"
@@ -1933,17 +1933,17 @@
   resolved "https://registry.yarnpkg.com/@sentre/react-lazyload/-/react-lazyload-3.2.2.tgz#f3d921327a2b14b9b3a9e906d01034f11387097a"
   integrity sha512-NKJhz9G8pModoZJaLMziRJtd582pFHbIydNXwRI72ECkjqbc7XIgBX+8kssrUtRxK2rW9VVQnGKDpmyZ8iSIyw==
 
-"@sentre/senhub@^3.0.10":
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/@sentre/senhub/-/senhub-3.0.10.tgz#40c65276025f21371384fe89dabae4000a285352"
-  integrity sha512-/QzgiriJyz4yZvWxmDIL7WFlnYEZhYwne2HcnajGJf36XSmm3ZId2Hnpc1+kOZmZvi3k2xJ8NQqR0B9MV0BMxQ==
+"@sentre/senhub@^3.0.15":
+  version "3.0.15"
+  resolved "https://registry.yarnpkg.com/@sentre/senhub/-/senhub-3.0.15.tgz#884b9c5da4137f3accbb8528d7f9a758c408df6a"
+  integrity sha512-VlW/YJH8hHHERt1sDpLDuqJkMdfSzi2aO1TOthc+6ilEAVsjGeOKNc3aU92RR+f7/45rPpaWKQxpb5KVrPG7TQ==
   dependencies:
     "@dnd-kit/core" "^4.0.1"
     "@dnd-kit/sortable" "^5.0.0"
     "@project-serum/sol-wallet-adapter" "^0.2.6"
     "@reduxjs/toolkit" "^1.8.0"
     "@senswap/sen-js" "^1.4.0"
-    "@sentre/antd-ionicon" "^1.0.27"
+    "@sentre/antd-ionicon" "^1.0.28"
     "@sentre/connector" "^0.0.30"
     "@sentre/react-dynamic-remote-component" "^0.0.6"
     "@sentre/react-lazyload" "^3.2.2"
