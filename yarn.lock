@@ -1873,13 +1873,6 @@
     soprox-abi "^0.0.18"
     tweetnacl "^1.0.3"
 
-"@sentre/antd-ionicon@^1.0.28":
-  version "1.0.28"
-  resolved "https://registry.yarnpkg.com/@sentre/antd-ionicon/-/antd-ionicon-1.0.28.tgz#78a1b5a578dfd376f4850a4256fa9fa850525dad"
-  integrity sha512-tXQNeCEoONgwSBM2BRV/7x3NpJGGS+N7TcKZ/8RK3hsPpPYNy2g6RBuNjfgmcDrxPXxmhmr4aYuIPFj8vCEmUw==
-  dependencies:
-    react-helmet "^6.1.0"
-
 "@sentre/antd-ionicon@^1.0.29":
   version "1.0.29"
   resolved "https://registry.yarnpkg.com/@sentre/antd-ionicon/-/antd-ionicon-1.0.29.tgz#d793a60244062ffb8f3380ed4073cfed4cc57dfc"
@@ -1940,17 +1933,17 @@
   resolved "https://registry.yarnpkg.com/@sentre/react-lazyload/-/react-lazyload-3.2.2.tgz#f3d921327a2b14b9b3a9e906d01034f11387097a"
   integrity sha512-NKJhz9G8pModoZJaLMziRJtd582pFHbIydNXwRI72ECkjqbc7XIgBX+8kssrUtRxK2rW9VVQnGKDpmyZ8iSIyw==
 
-"@sentre/senhub@^3.0.20":
-  version "3.0.20"
-  resolved "https://registry.yarnpkg.com/@sentre/senhub/-/senhub-3.0.20.tgz#3fd38a247a80cd9353b4a2f5f52ac169612dd05c"
-  integrity sha512-rfX128AhX1CmfHWcw/xoLoQu1BZ8/C4LxI5+6eyXBdSAGtYVtIkdPDiIrm6ZtBjZmDi9+vSezEFHsh2MPZEF/Q==
+"@sentre/senhub@^3.0.21":
+  version "3.0.21"
+  resolved "https://registry.yarnpkg.com/@sentre/senhub/-/senhub-3.0.21.tgz#8b6590783db3d219fe349ba2e99b651bd4d30bfb"
+  integrity sha512-m7+qurPwrT/0OsAbpfw/4hFa/nw6tTGGnS21pAzGBNkT1jAdC05IDXiVioNMcZRL3Q2nZDUY1dJ4LlE/VTlD+A==
   dependencies:
     "@dnd-kit/core" "^4.0.1"
     "@dnd-kit/sortable" "^5.0.0"
     "@project-serum/sol-wallet-adapter" "^0.2.6"
     "@reduxjs/toolkit" "^1.8.0"
     "@senswap/sen-js" "^1.4.0"
-    "@sentre/antd-ionicon" "^1.0.28"
+    "@sentre/antd-ionicon" "^1.0.29"
     "@sentre/connector" "^0.0.30"
     "@sentre/react-dynamic-remote-component" "^0.0.6"
     "@sentre/react-lazyload" "^3.2.2"
