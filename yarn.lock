@@ -1880,6 +1880,13 @@
   dependencies:
     react-helmet "^6.1.0"
 
+"@sentre/antd-ionicon@^1.0.29":
+  version "1.0.29"
+  resolved "https://registry.yarnpkg.com/@sentre/antd-ionicon/-/antd-ionicon-1.0.29.tgz#d793a60244062ffb8f3380ed4073cfed4cc57dfc"
+  integrity sha512-tMyLxShk23k3GMW4T4ZQ8LbbXXabfJJG9gCTTBC8JDeFR4K5JgyMZQ4WCvUrur+yJjVjf7SMLhyxkwjbk9PYRQ==
+  dependencies:
+    react-helmet "^6.1.0"
+
 "@sentre/connector@^0.0.30":
   version "0.0.30"
   resolved "https://registry.yarnpkg.com/@sentre/connector/-/connector-0.0.30.tgz#c77162b7d799e12b74d8d3b65eea465d0ffb5fcc"
@@ -1887,10 +1894,10 @@
   dependencies:
     "@solana/web3.js" "^1.43.1"
 
-"@sentre/craco-plugins@^1.0.28":
-  version "1.0.28"
-  resolved "https://registry.yarnpkg.com/@sentre/craco-plugins/-/craco-plugins-1.0.28.tgz#8b47dc54699cd285400e85fe0b038fae940e44db"
-  integrity sha512-53fogaJ1WggZrRcUIiPoxr+QmNqKw3FFDNk8kKT/fHNovjGpOmuWEPuD4rrEdp2dI98liY6rYzHUp7A4cpYQKw==
+"@sentre/craco-plugins@^1.0.29":
+  version "1.0.29"
+  resolved "https://registry.yarnpkg.com/@sentre/craco-plugins/-/craco-plugins-1.0.29.tgz#973976f78bc4f47550a85a66eafb48d984f9f783"
+  integrity sha512-qY8ViYVXQzYV3/ZHLYyVzPuo34vAGUOl3KFzr+kHwjh4Fuvyw6lDFtsjqGIsIUt755LYdfRdDDSwxHcZToRV+g==
   dependencies:
     "@babel/cli" "^7.17.10"
     "@babel/core" "^7.18.2"
@@ -1933,10 +1940,10 @@
   resolved "https://registry.yarnpkg.com/@sentre/react-lazyload/-/react-lazyload-3.2.2.tgz#f3d921327a2b14b9b3a9e906d01034f11387097a"
   integrity sha512-NKJhz9G8pModoZJaLMziRJtd582pFHbIydNXwRI72ECkjqbc7XIgBX+8kssrUtRxK2rW9VVQnGKDpmyZ8iSIyw==
 
-"@sentre/senhub@^3.0.17":
-  version "3.0.17"
-  resolved "https://registry.yarnpkg.com/@sentre/senhub/-/senhub-3.0.17.tgz#32a56e670da5089ff35e6ed2e900540d14c8021f"
-  integrity sha512-LK6WPPDxHGK4/7blxIu28VF+ytQLf9u+5j0PGKvZsjBD/5Y1zQ604DW5GRgZvrIXECf336BMYevlE3GYQs+wAA==
+"@sentre/senhub@^3.0.20":
+  version "3.0.20"
+  resolved "https://registry.yarnpkg.com/@sentre/senhub/-/senhub-3.0.20.tgz#3fd38a247a80cd9353b4a2f5f52ac169612dd05c"
+  integrity sha512-rfX128AhX1CmfHWcw/xoLoQu1BZ8/C4LxI5+6eyXBdSAGtYVtIkdPDiIrm6ZtBjZmDi9+vSezEFHsh2MPZEF/Q==
   dependencies:
     "@dnd-kit/core" "^4.0.1"
     "@dnd-kit/sortable" "^5.0.0"
@@ -10771,11 +10778,6 @@ prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha512-ESF23V4SKG6lVSGZgYNpbsiaAkdab6ZgOxe52p7+Kid3W3u3bxR4Vfd/o21dmN7jSt0IwgZ4v5MUd26FEtXE9w==
-
-prettier@2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.0.tgz#a6370e2d4594e093270419d9cc47f7670488f893"
-  integrity sha512-FM/zAKgWTxj40rH03VxzIPdXmj39SwSjwG0heUcNFwI+EMZJnY93yAiKXM3dObIKAM5TA88werc8T/EwhB45eg==
 
 pretty-bytes@^5.3.0, pretty-bytes@^5.4.1:
   version "5.6.0"
