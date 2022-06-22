@@ -6,7 +6,7 @@
     "@senswap/sen-js": "^1.4.0",
     "@sentre/antd-ionicon": "^1.0.28",
     "@sentre/react-lazyload": "^3.2.2",
-    "@sentre/senhub": "^3.0.15",
+    "@sentre/senhub": "^3.0.17",
     "antd": "^4.21.1",
     "bn.js": "^5.2.0",
     "react": "^17.0.2",
@@ -26,7 +26,6 @@
     "deploy": "gh-pages -d build",
     "preserve": "yarn build:staging",
     "serve": "serve -s build -l 3000",
-    "manifest": "NODE_ENV=production node ./manifest-builder.js",
     "update": "yarn add @sentre/antd-ionicon@latest @sentre/senhub@latest && yarn add -D @sentre/craco-plugins@latest"
   },
   "eslintConfig": {
@@ -62,7 +61,6 @@
     "dotenv-cra": "^3.0.2",
     "env-cmd": "^10.1.0",
     "gh-pages": "^3.2.3",
-    "prettier": "2.5.0",
     "serve": "^12.0.1",
     "typescript": "^4.5.2"
   }
