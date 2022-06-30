@@ -1947,10 +1947,10 @@
   resolved "https://registry.yarnpkg.com/@sentre/react-lazyload/-/react-lazyload-3.2.2.tgz#f3d921327a2b14b9b3a9e906d01034f11387097a"
   integrity sha512-NKJhz9G8pModoZJaLMziRJtd582pFHbIydNXwRI72ECkjqbc7XIgBX+8kssrUtRxK2rW9VVQnGKDpmyZ8iSIyw==
 
-"@sentre/senhub@^3.0.30":
-  version "3.0.30"
-  resolved "https://registry.yarnpkg.com/@sentre/senhub/-/senhub-3.0.30.tgz#763052349b391ba770c78e2150c0dfb3b5d3ad80"
-  integrity sha512-JbsBswMBEc70KA6FVGgg3NP/ph1AokGOgXMZCNpLGyxkPI2/K7S0xK4cqCPgHKccZR1EHoM8pDINLRgXtFIseA==
+"@sentre/senhub@^3.0.32":
+  version "3.0.32"
+  resolved "https://registry.yarnpkg.com/@sentre/senhub/-/senhub-3.0.32.tgz#cdeb4ca6b756a271ccaf2389a4ef247084f0594c"
+  integrity sha512-AdPgNpQhwe+tXWEkRISmpYlvkOWbospi5Dz4zVwrDxeX1V05xj7zyjyaVjwnb4+lW+YLoAhsnhH9r42DzpOveQ==
   dependencies:
     "@dnd-kit/core" "^4.0.1"
     "@dnd-kit/sortable" "^5.0.0"
@@ -2019,7 +2019,7 @@
   dependencies:
     cross-fetch "3.0.6"
 
-"@solana/web3.js@^1.29.2", "@solana/web3.js@^1.43.1":
+"@solana/web3.js@1.45.0", "@solana/web3.js@^1.29.2", "@solana/web3.js@^1.43.1":
   version "1.45.0"
   resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.45.0.tgz#30a4a3014f8add3ac90b647d50ee1d02386b72b8"
   integrity sha512-76NbpGLr0oOq8e5pULOjxwG0vZrSONkiC0rKBZM4Mu7qPvFD58Jp2GeXNGQcplmfHI+Zs2T4LPOVCdlrwRkA+g==
