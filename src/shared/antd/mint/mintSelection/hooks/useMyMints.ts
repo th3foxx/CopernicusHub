@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from 'react'
-import { useAccount } from '@senhub/providers'
+import { useAccount } from '@sentre/senhub'
 
 export const useMyMints = () => {
   const [mints, setMints] = useState<string[]>([])
@@ -16,3 +16,4 @@ export const useMyMints = () => {
 
   return mints
 }
+
